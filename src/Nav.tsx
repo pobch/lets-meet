@@ -11,10 +11,10 @@ function Nav() {
       </Link>
       <ul>
         <li>
-          <Link to="/selector">Create/Edit</Link>
+          <Link to="/create">Create</Link>
         </li>
         <li>
-          <Link to="/display">Display</Link>
+          <Link to="/report">Report</Link>
         </li>
       </ul>
     </nav>
